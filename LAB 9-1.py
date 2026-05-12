@@ -1,0 +1,6 @@
+print((200).__sub__(100))
+print((200).__mul__(100))
+print((200).__truediv__(100))
+print([10, 20, 30, 40].pop())
+print(dir(int))
+print(dir(list))
